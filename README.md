@@ -16,9 +16,9 @@ The final model achieved a ROC-AUC score of 0.77.
 
 ## View the Analysis
 
-[Full Analysis](https://njlewin.github.io/NFL_FieldGoal_Analysis/) — rendered, no code
+[Full Analysis](https://njlewin.github.io/NFL_FieldGoal_Factors/) — rendered, no code
 
-[Jupyter Notebook](https://github.com/njlewin/NFL_FieldGoal_Analysis) — full code and methodology
+[Jupyter Notebook](https://github.com/njlewin/NFL_FieldGoal_Factors/blob/main/NFL_FieldGoal_Factors.ipynb) — full code and methodology
 
 ## Data
 
